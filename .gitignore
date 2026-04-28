@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# --- Custom Project Files ---
+# Deney logları ve sonuçları
+experiments/
+
+# Büyük model dosyaları
+*.pt
+*.onnx
+
+# Veri setleri (çok büyük oldukları için)
+data/
+dataset/
